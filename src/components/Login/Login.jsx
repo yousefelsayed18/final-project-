@@ -135,7 +135,7 @@ export default function Login() {
               </span>
             </Link>
             <Link to="/forget-password">
-              <span className="text-blue-500 underline">Forgot Password?</span>
+              <span className="text-red-500 underline">Forgot Password?</span>
             </Link>
           </div>
         </form>
